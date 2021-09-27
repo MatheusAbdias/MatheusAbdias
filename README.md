@@ -1,18 +1,23 @@
-## Bem vindo meu confederado, prazer Matheus.
-
-- 🌱 Atualmente Estudo Datascienc,front - end
-- 📫  Contate-me no email: matheus.abdias.016@ufrn.edu
+## Bem vindo, meu confederado 
+- Sou matheus, desenvolvedor back-end e entusiasta em data-scien a qual estou direcionando meus estudos. Atualmento sou aluno de Engenharia da computação na Universidade Federal Do Rio Grande Do Norte (UFRN), tenho uma maior experiência com C++ e python porem estou aberto a qualquer tipo de ferramenta que auxilie na resolução de problemas. 
 
 <div>
   <a href="https://github.com/MatheusAbdias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusAbdias&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbdias&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusAbdias&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbdias&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt= "Mat-cplusplus" hight = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
  
   ##
-     ![Snake animation](https://github.com/MatheusAbdias/MatheusAbdias/blob/output/github-contribution-grid-snake.svg)
-  </div>
+</div>
+  
+<div>
+   <a href = "mailto:matheus.abdias.016@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  	<a href="https://www.twitch.tv/matchisaki" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/MatheusAbdias/MatheusAbdias/blob/output/github-contribution-grid-snake.svg)
+</div>
