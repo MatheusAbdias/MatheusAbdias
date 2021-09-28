@@ -18,6 +18,7 @@
 <div>
    <a href = "mailto:matheus.abdias.016@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   	<a href="https://www.twitch.tv/matchisaki" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  
+  <a href="https://www.codewars.com/users/MatheusAbddias" target ="_blank"><img src="https://img.shields.io/badge/-Code%20Wars-red?style=for-the-badge&logo=codewars&logocolor=white"
+ 
   ![Snake animation](https://github.com/MatheusAbdias/MatheusAbdias/blob/output/github-contribution-grid-snake.svg)
 </div>
