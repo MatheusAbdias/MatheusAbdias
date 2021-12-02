@@ -1,6 +1,5 @@
-## Bem vindo, meu confederado 
-- Sou matheus, desenvolvedor back-end e entusiasta em data-scien a qual estou direcionando meus estudos. Atualmento sou aluno de Engenharia da computação na Universidade Federal Do Rio Grande Do Norte (UFRN), tenho uma maior experiência com C++ e python porem estou aberto a qualquer tipo de ferramenta que auxilie na resolução de problemas. 
-
+## Your welcome, pleasure Matheus.
+- back-end development and enthusiastic about data science for optimization.Currently computation engineer student for federal university Rio Grande Do Norte (UFRN).
 <div>
   <a href="https://github.com/MatheusAbdias">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusAbdias&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
